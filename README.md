@@ -37,3 +37,5 @@ PimApp is an optimizer of the reasonable sort and not another TUNEUP, CLEANER, O
 </p>
 
 *** 
+
+Built with ❤︎ by © [Mirinsoft](https://www.mirinsoft.com "Good apps are as little apps as possible").
