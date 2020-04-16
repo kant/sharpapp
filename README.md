@@ -69,7 +69,7 @@ Donationware
 ---
 
 > [mirinsoft.com](https://www.mirinsoft.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/mirinsoft) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/mirinsoft)
+> GitHub [@mirinsoft](https://github.com/mirinsoft) &nbsp;&middot;&nbsp;
+> Twitter [@mirinsoft](https://twitter.com/mirinsoft)
 
 
