@@ -1,11 +1,11 @@
 <p align="center">  <p align="center">
 	
+<a href="https://github.com/mirinsoft/pimpapp/releases/latest" target="_blank">
+<img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/pimpapp.svg?style=flat-square" />
+</a>
+	
 <a href="https://github.com/mirinsoft/pimpapp/releases" target="_blank">
 <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/mirinsoft/pimpapp/total.svg?style=flat-square" />
-</a>
- 
-<a href="https://github.com/mirinsoft/pimpapp/releases/latest" target="_blank">
- <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/pimpapp.svg?style=flat-square" />
 </a>
 
 <a href="https://github.com/mirinsoft/pimpapp/commits/master">
