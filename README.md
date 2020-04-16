@@ -25,7 +25,7 @@ alt="GitHub issues">
 </sub>
 	PimpApp - It's all about to pimp your Windows, privacy and apps!
 	
-	It's optimizer of the reasonable sort and not another TUNEUP, CLEANER, OPTIMIZER (I hate this) utility!
+	It's an optimizer of the reasonable sort and not another TUNEUP, CLEANER, OPTIMIZER (I hate this) utility!
 	
 </h1>
 
