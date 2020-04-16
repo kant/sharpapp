@@ -23,13 +23,13 @@ alt="GitHub issues">
       height="38"
       width="38">
 </sub>
-	PimpApp - It's all about to pimp your Windows, privacy and apps!
-	It's an optimizer of the reasonable sort and not another TUNEUP, CLEANER, OPTIMIZER (I hate this) utility!
-	
+	PimpApp - It's all about to pimp your Windows, privacy and apps!	
 </h1>
-
+	
+*** 
+	
 <p align="center">
-A free and portable tool for everyone who values privacy and security in the Windows world
+PimApp is an optimizer of the reasonable sort and not another TUNEUP, CLEANER, OPTIMIZER (I hate this) utility!
   
 ![alt text](https://github.com/mirinsoft/pimpapp/blob/master/pimpapp.png)
 
