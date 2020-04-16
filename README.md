@@ -15,6 +15,8 @@ alt="GitHub last commit">
 <img src="https://img.shields.io/github/issues-raw/mirinsoft/pimpapp.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub issues">   
   
+ *** 
+  
 </p>
 
 <h1 align="center">
@@ -26,7 +28,6 @@ alt="GitHub issues">
 	PimpApp - It's all about to pimp your Windows, privacy and apps!	
 </h1>
 	
-*** 
 	
 <p align="center">
 PimApp is an optimizer of the reasonable sort and not another TUNEUP, CLEANER, OPTIMIZER (I hate this) utility!
