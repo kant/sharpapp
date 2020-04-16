@@ -15,7 +15,7 @@ alt="GitHub issues">
 </a>
   
 </p>
-*** 
+
 <h1 align="center">
 <sub>
 <img  src="https://github.com/mirinsoft/pimpapp/raw/master/icon.ico"
