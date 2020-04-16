@@ -1,11 +1,5 @@
 <p align="center">  <p align="center">
 	
-<a href="https://github.com/mirinsoft/pimpapp/commits/master">
-<img src="https://img.shields.io/github/last-commit/mirinsoft/pimpapp.svg?style=flat-square&logo=github&logoColor=white"
-alt="GitHub last commit">
-<a href="https://github.com/mirinsoft/pimpapp/issues">
-<img src="https://img.shields.io/github/issues-raw/mirinsoft/pimpapp.svg?style=flat-square&logo=github&logoColor=white"
-alt="GitHub issues">   
 <a href="https://github.com/mirinsoft/pimpapp/releases" target="_blank">
 <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/mirinsoft/pimpapp/total.svg?style=flat-square" />
 </a>
@@ -13,6 +7,13 @@ alt="GitHub issues">
 <a href="https://github.com/mirinsoft/pimpapp/releases/latest" target="_blank">
  <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/pimpapp.svg?style=flat-square" />
 </a>
+
+<a href="https://github.com/mirinsoft/pimpapp/commits/master">
+<img src="https://img.shields.io/github/last-commit/mirinsoft/pimpapp.svg?style=flat-square&logo=github&logoColor=white"
+alt="GitHub last commit">
+<a href="https://github.com/mirinsoft/pimpapp/issues">
+<img src="https://img.shields.io/github/issues-raw/mirinsoft/pimpapp.svg?style=flat-square&logo=github&logoColor=white"
+alt="GitHub issues">   
   
 </p>
 
