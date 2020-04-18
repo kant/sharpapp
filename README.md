@@ -38,9 +38,18 @@ alt="GitHub issues">
 
 ## Key Features
 
-* 
-  - Coming ...
+PimpApp will cover the following areas to prepare you for "net" after a clean install
 
+* Privacy 
+	- Run a privacy template and disable the most telemetry functions to improve the "real" Windows experience.
+* Apps 
+	- Remove preinstalled, bloatware and sponsered apps
+* Tracking 
+	- Block IP adresses of telemetry
+* Install 
+	- Install basic software, like an Archive Utility, a text editor etc.
+* Scripting
+	- Execute optional scripts in PowerShell, e.g. Install a new langauge pack etc.
 
 ## How To Use
 
