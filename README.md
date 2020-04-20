@@ -38,7 +38,7 @@ alt="GitHub issues">
 
 ## Features
 
-PimpApp will cover the following areas to prepare you for "net" after a clean install or majore Windows 10 updates
+PimpApp will cover the following areas to prepare you for the "net" after a clean install or major Windows 10 updates
 
 * Privacy 
 	- Run a privacy template and disable the most telemetry functions to improve the "real" Windows experience.
