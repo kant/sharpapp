@@ -52,11 +52,11 @@ PimpApp will cover the following areas to prepare you for "net" after a clean in
 	- Execute optional scripts in PowerShell, e.g. Install a new langauge pack etc.
 * More
 	- 100% free (please [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donate@mirinsoft.com&lc=US&item_name=%20Mirinsoft&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted) and support me if you like it)
-	- Simple to use
-	- Portable
+	- simple to use
+	- portable
 	- leightweight and fast
 	- customizible (no hard-coded scripts)
-	- integrated PowerShell scripting engine
+	- integrated Powershell scripting engine
 
 ## How To Use
 
