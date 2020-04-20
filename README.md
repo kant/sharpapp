@@ -70,6 +70,7 @@ This software uses the following packages:
 
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10/)
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
+- [MinersWin / Ninite](https://github.com/MinersWin/Ninite)
 
 ## License
 
