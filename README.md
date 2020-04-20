@@ -27,7 +27,7 @@ alt="GitHub issues">
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#Features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
@@ -36,9 +36,9 @@ alt="GitHub issues">
 
 ![screenshot](https://github.com/mirinsoft/pimpapp/blob/master/pimpapp.png)
 
-## Key Features
+## Features
 
-PimpApp will cover the following areas to prepare you for "net" after a clean install
+PimpApp will cover the following areas to prepare you for "net" after a clean install or majore Windows 10 updates
 
 * Privacy 
 	- Run a privacy template and disable the most telemetry functions to improve the "real" Windows experience.
@@ -50,6 +50,13 @@ PimpApp will cover the following areas to prepare you for "net" after a clean in
 	- Install basic software, like an Archive Utility, a text editor etc.
 * Scripting
 	- Execute optional scripts in PowerShell, e.g. Install a new langauge pack etc.
+* More
+	- 100% free (please [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donate@mirinsoft.com&lc=US&item_name=%20Mirinsoft&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted) and support me if you like it)
+	- Simple to use
+	- Portable
+	- leightweight and fast
+	- customizible (no hard-coded scripts)
+	- integrated PowerShell scripting engine
 
 ## How To Use
 
