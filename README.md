@@ -34,7 +34,7 @@ alt="GitHub issues">
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://github.com/mirinsoft/pimpapp/blob/master/pimpapp.png)
+![screenshot](https://github.com/mirinsoft/pimpapp/blob/master/the-new-pimpapp.png)
 
 ## Features
 
