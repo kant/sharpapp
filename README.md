@@ -59,6 +59,8 @@ PimpApp will cover the following areas to prepare you for the "net" after a clea
 	- portable
 	- leightweight and fast
 
+More information can be found [here](http://www.mirinsoft.com/ms-apps/pimpapp) 
+
 ## How To Use
 
 Coming ...
