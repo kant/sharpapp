@@ -36,6 +36,8 @@ alt="GitHub issues">
 
 ![screenshot](https://github.com/mirinsoft/pimpapp/blob/master/the-new-pimpapp.png)
 
+![screenshot](https://github.com/mirinsoft/pimpapp/blob/master/pimpapp.png)
+
 ## Features
 
 PimpApp will cover the following areas to prepare you for the "net" after a clean install or major Windows 10 updates
