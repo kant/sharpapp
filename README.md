@@ -40,11 +40,11 @@ alt="GitHub issues">
 
 PimpApp will cover the following areas to prepare you for the "net" after a clean install or major Windows 10 updates
 
-* Privacy 
+* Windows
 	- Run a privacy template and disable the most telemetry functions to improve the "real" Windows experience.
 * Apps 
 	- Remove preinstalled, bloatware and sponsered apps
-* Tracking 
+* TTelemetry
 	- Block IP adresses of telemetry
 * Install 
 	- Install basic software, like an Archive Utility, a text editor etc.
