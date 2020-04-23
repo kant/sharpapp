@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A tool to pimp your Windows, privacy and apps!</h4>
+<h4 align="center">💩⭐️🚀A #app with cutting edge technology to minimize windows-10 telemetry and maximize privacy</h4>
 
 <p align="center">
 <a href="https://github.com/mirinsoft/sharpapp/releases/latest" target="_blank">
