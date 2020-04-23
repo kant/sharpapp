@@ -1,27 +1,27 @@
 <h1 align="center">
   <br>
-  <a href="http://www.mirinsoft.com"><img src="https://github.com/mirinsoft/pimpapp/blob/master/icon.ico" alt="PimpApp" width="200"></a>
+  <a href="http://www.mirinsoft.com"><img src="https://github.com/mirinsoft/sharpapp/blob/master/icon.ico" alt="SharpApp" width="200"></a>
   <br>
-  PimpApp
+  SharpApp
   <br>
 </h1>
 
 <h4 align="center">A tool to pimp your Windows, privacy and apps!</h4>
 
 <p align="center">
-<a href="https://github.com/mirinsoft/pimpapp/releases/latest" target="_blank">
-<img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/pimpapp.svg?style=flat-square" />
+<a href="https://github.com/mirinsoft/sharpapp/releases/latest" target="_blank">
+<img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/sharpapp.svg?style=flat-square" />
 </a>
 	
-<a href="https://github.com/mirinsoft/pimpapp/releases" target="_blank">
-<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/mirinsoft/pimpapp/total.svg?style=flat-square" />
+<a href="https://github.com/mirinsoft/sharpapp/releases" target="_blank">
+<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/mirinsoft/sharpapp/total.svg?style=flat-square" />
 </a>
 
-<a href="https://github.com/mirinsoft/pimpapp/commits/master">
-<img src="https://img.shields.io/github/last-commit/mirinsoft/pimpapp.svg?style=flat-square&logo=github&logoColor=white"
+<a href="https://github.com/mirinsoft/sharpapp/commits/master">
+<img src="https://img.shields.io/github/last-commit/mirinsoft/sharpapp.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub last commit">
-<a href="https://github.com/mirinsoft/pimpapp/issues">
-<img src="https://img.shields.io/github/issues-raw/mirinsoft/pimpapp.svg?style=flat-square&logo=github&logoColor=white"
+<a href="https://github.com/mirinsoft/sharpapp/issues">
+<img src="https://img.shields.io/github/issues-raw/mirinsoft/sharpapp.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub issues">   
   
 </p>
@@ -34,15 +34,13 @@ alt="GitHub issues">
   <a href="#license">License</a>
 </p>
 
-PimpApp is a free and portable tool building upon a PowerShell engine and community powered script files for disabling telemetry functions in Windows 10, uninstalling preinstalled apps and automating other tasks after a clean Installation of Windows 10.
+SharpApp is a free and portable tool building upon a PowerShell engine and community powered script files for disabling telemetry functions in Windows 10, uninstalling preinstalled apps and automating other tasks after a clean Installation of Windows 10.
 
-![screenshot](https://github.com/mirinsoft/pimpapp/blob/master/the-new-pimpapp.png)
-
-![screenshot](https://github.com/mirinsoft/pimpapp/blob/master/pimpapp.png)
+![screenshot](https://github.com/mirinsoft/sharpapp/blob/master/sharpapp.png)
 
 ## Features
 
-PimpApp will cover the following areas to prepare you for the "net" after a clean install or major Windows 10 updates
+SharpApp will cover the following areas to prepare you for the "net" after a clean install or major Windows 10 updates
 
 * Windows
 	- Run a privacy template and disable the most telemetry functions to improve the "real" Windows experience.
@@ -63,7 +61,7 @@ PimpApp will cover the following areas to prepare you for the "net" after a clea
 	- portable
 	- leightweight and fast
 
-More information can be found [here](http://www.mirinsoft.com/ms-apps/pimpapp) 
+More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp) 
 
 ## How To Use
 
@@ -76,7 +74,7 @@ Coming ...
 
 ## Download
 
-(Latest release) [Download](https://github.com/mirinsoft/pimpapp/releases) 
+(Latest release) [Download](https://github.com/mirinsoft/sharpapp/releases) 
 
 ## Credits
 
