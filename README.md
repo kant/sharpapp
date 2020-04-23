@@ -34,6 +34,8 @@ alt="GitHub issues">
   <a href="#license">License</a>
 </p>
 
+PimpApp is a free and portable tool building upon a PowerShell engine and community powered script files for disabling telemetry functions in Windows 10, uninstalling preinstalled apps and automating other tasks after a clean Installation of Windows 10.
+
 ![screenshot](https://github.com/mirinsoft/pimpapp/blob/master/the-new-pimpapp.png)
 
 ![screenshot](https://github.com/mirinsoft/pimpapp/blob/master/pimpapp.png)
@@ -46,7 +48,7 @@ PimpApp will cover the following areas to prepare you for the "net" after a clea
 	- Run a privacy template and disable the most telemetry functions to improve the "real" Windows experience.
 * Apps 
 	- Remove preinstalled, bloatware and sponsered apps
-* TTelemetry
+* Telemetry
 	- Block IP adresses of telemetry
 * Install 
 	- Install basic software, like an Archive Utility, a text editor etc.
