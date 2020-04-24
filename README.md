@@ -45,7 +45,7 @@ SharpApp will cover the following areas to prepare you for the "net" after a cle
 * Windows
 	- Run a privacy template and disable the most telemetry functions to improve the "real" Windows experience.
 * Apps 
-	- Remove preinstalled, bloatware and sponsered apps
+	- Remove preinstalled, bloatware and sponsored apps
 * Telemetry
 	- Block IP adresses of telemetry
 * Install 
