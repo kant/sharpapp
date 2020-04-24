@@ -1446,7 +1446,7 @@ $Label2.Location = (New-Object -TypeName System.Drawing.Point -ArgumentList @([S
 $Label2.Name = [System.String]'Label2'
 $Label2.Size = (New-Object -TypeName System.Drawing.Size -ArgumentList @([System.Int32]79,[System.Int32]17))
 $Label2.TabIndex = [System.Int32]2
-$Label2.Text = [System.String]'for PimpApp'
+$Label2.Text = [System.String]'for SharpApp'
 $Label2.UseCompatibleTextRendering = $true
 #
 #Label1
