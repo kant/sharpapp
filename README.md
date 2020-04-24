@@ -2,7 +2,7 @@
   <br>
   <a href="http://www.mirinsoft.com"><img src="https://github.com/mirinsoft/sharpapp/blob/master/icon.ico" alt="SharpApp" width="200"></a>
   <br>
-  SharpApp
+  Sharpapp
   <br>
 </h1>
 
@@ -34,7 +34,7 @@ alt="GitHub issues">
   <a href="#license">License</a>
 </p>
 
-SharpApp is a free and portable tool building upon a PowerShell engine and community powered script files for disabling telemetry functions in Windows 10, uninstalling preinstalled apps and automating other tasks after a clean Installation of Windows 10.
+Sharpapp is a free and portable tool building upon a PowerShell engine and community powered script files for disabling telemetry functions in Windows 10, uninstalling preinstalled apps and automating other tasks after a clean Installation of Windows 10.
 
 ![screenshot](https://github.com/mirinsoft/sharpapp/blob/master/the-new-sharpapp.png)
 
