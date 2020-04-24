@@ -36,6 +36,8 @@ alt="GitHub issues">
 
 SharpApp is a free and portable tool building upon a PowerShell engine and community powered script files for disabling telemetry functions in Windows 10, uninstalling preinstalled apps and automating other tasks after a clean Installation of Windows 10.
 
+![screenshot](https://github.com/mirinsoft/sharpapp/blob/master/the-new-sharpapp.png)
+
 ![screenshot](https://github.com/mirinsoft/sharpapp/blob/master/sharpapp.png)
 
 ## Features
