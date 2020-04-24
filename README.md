@@ -2,7 +2,7 @@
   <br>
   <a href="http://www.mirinsoft.com"><img src="https://github.com/mirinsoft/sharpapp/blob/master/icon.ico" alt="SharpApp" width="200"></a>
   <br>
-  #app (Sharpapp)
+  #app (SharpApp)
   <br>
 </h1>
 
