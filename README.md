@@ -66,7 +66,7 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
 ## How To Use
 
 * **[Download](https://github.com/mirinsoft/sharpapp/releases)** the latest version of SharpApp.
-* **Goto Navigation > # windows > Download Beginners template** and download: `Beginners template`
+* **Goto Navigation > # windows > Choose Privacy template** and download: `Basic template (for Beginners)`
   * Goto Navigation > # scripting > Select `basicPrivacyTemplate` from dropdown menu > **Run script**.
   * Do the same with `appsPrivacyTemplate`(optional).
 * **Goto Navigation > # apps > Remove preinstalled apps manually**
