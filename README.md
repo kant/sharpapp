@@ -65,12 +65,31 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
 
 ## How To Use
 
-Coming ...
 
-```bash
 
-```
 
+
+##### Usage: After clean Install or major Windows 10 update
+* **[Download](https://github.com/mirinsoft/sharpapp/releases)** the latest version of SharpApp.
+* **Goto Navigation > # windows > Download Beginners template** and download: `Beginners template`
+  * Goto Navigation > # scripting > Select `basicPrivacyTemplate` > **Run script**.
+  * Do the same with `appsPrivacyTemplate`(optional).
+* **Goto Navigation > # apps > Remove preinstalled apps manually**
+  * or **download the Advanced Privacy template** (named `Windows10Debloater`) which will guide you with interactive prompts through the     removal of bloatware and locking down other parts of Windows 10.
+ * **Goto Navigation > # telemetry > Block IP adresses of telemetry**
+   * You can add here optional community rules provided by [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
+ * **Goto Navigation > # install > Install your favorite software packages*
+   * This should self explanatory. SharpApp uses here the [Ninite service](https://ninite.com/)
+   * Optional you can also include a PowerShell GUI package for Ninite. Just hit **Add more packages** and select `Ninite PowerShellGUI`
+ 
+* **[PROFFESIONAL TEMPLATE]** This template includes script files provided by **[W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10/tree/master/scripts)** **It's execution is done completely silent**
+ **SharpApp support six of these script files** All script files are descripted when selected.
+  * `block-telemetry` for blocking related domains via hosts file and Windows Firewall
+  * `disable-services` for disabling unwanted telemetry services
+  * `disable-windows-defender` for disabling Windows Defender via Group policies
+  * `install-basic-software` for installing software packages with chocolatey package manager
+  * `remove-default-apps` for removing bloatware shipped with Windows
+  * `remove-onedrive` for removing OneDrive Integration
 
 ## Download
 
