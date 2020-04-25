@@ -43,15 +43,15 @@ Sharpapp is a free and portable tool building upon a PowerShell engine and commu
 SharpApp will cover the following areas to prepare you for the "net" after a clean install or major Windows 10 updates
 
 * Windows
-	- Run a privacy template and disable the most telemetry functions to improve the "real" Windows experience.
+	- Run a basic privacy template and disable the most telemetry functions to improve the "real" Windows experience.
 * Apps 
 	- Remove preinstalled, bloatware and sponsored apps
 * Telemetry
 	- Block IP adresses of telemetry
 * Install 
-	- Install basic software, like an Archive Utility, a text editor etc.
+	- Install basic software with integrated for Ninite service 
 * Scripting
-	- Execute optional scripts in PowerShell, e.g. Install a new langauge pack etc.
+	- Execute optional scripts in PowerShell, e.g. run advanced scripts to remove Cortana or OneDrive and disable Windows Defender. Write your own GPO's by creating simple PowerShell scripts, putting them in scripts folder of SharpApp and run them all in one go!
 * More
 	- 100% free (please [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donate@mirinsoft.com&lc=US&item_name=%20Mirinsoft&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted) and support me if you like it)
 	- features community powered and trending script files for your privacy, windows and apps
