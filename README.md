@@ -27,14 +27,12 @@ alt="GitHub issues">
 </p>
 
 <p align="center">
-  <a href="#Features">Key Features</a> •
+  <a href="#Features">Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
-
-Sharpapp is a free and portable tool building upon a PowerShell engine and community powered script files for disabling telemetry functions in Windows 10, uninstalling preinstalled apps and automating other tasks after a clean Installation of Windows 10.
 
 ![screenshot](https://github.com/mirinsoft/sharpapp/blob/master/sharpapp-intro.gif)
 
@@ -51,7 +49,7 @@ SharpApp will cover the following areas to prepare you for the "net" after a cle
 * Install 
 	- Install basic software with integrated for Ninite service 
 * Scripting
-	- Execute optional scripts in PowerShell, e.g. run advanced scripts to remove Cortana or OneDrive and disable Windows Defender. Write your own GPO's by creating simple PowerShell scripts, putting them in scripts folder of SharpApp and run them all in one go!
+	- Lock down Windows 10, block telemetry and automate with PowerShell in a #App GUI
 * More
 	- 100% free (please [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donate@mirinsoft.com&lc=US&item_name=%20Mirinsoft&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted) and support me if you like it)
 	- features community powered and trending script files for your privacy, windows and apps
