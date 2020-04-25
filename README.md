@@ -47,7 +47,7 @@ SharpApp is a free and portable tool building upon a PowerShell engine and commu
 * Telemetry
 	- Block IP adresses of telemetry
 * Install 
-	- Install basic software with integrated for Ninite service 
+	- Install basic software with integrated Ninite service, Ninite PowerShell GUI or just download Windows 10 ISO files
 * Scripting
 	- Lock down Windows 10, block telemetry and automate with PowerShell in a #App GUI
 * More
