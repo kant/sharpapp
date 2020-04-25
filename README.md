@@ -74,11 +74,11 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
  * **Goto Navigation > # telemetry > Block IP adresses of telemetry**
    * You can add here optional community rules provided by [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
  * **Goto Navigation > # install > Install software packages**
-   * This should be self explanatory. SharpApp uses here the [Ninite service](https://ninite.com/)
+   * This should be self explanatory! SharpApp uses here the [Ninite service](https://ninite.com/)
    * Optional you can also include a PowerShell GUI package for Ninite. Just hit **Add more packages** and select `Ninite PowerShellGUI`
  
-* **[PROFFESIONAL TEMPLATE]** This template includes script files provided by **[W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10/tree/master/scripts)** **It's execution is done completely silent**
- **SharpApp support six of these script files** All script files are descripted when selected.
+* **[PROFFESIONAL TEMPLATE]** This template includes script files provided by **[W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10/tree/master/scripts)**. **It's execution is done completely silent!**
+ **SharpApp support six of these script files** All script files are descriped when selected.
   * `block-telemetry` for blocking related domains via hosts file and Windows Firewall
   * `disable-services` for disabling unwanted telemetry services
   * `disable-windows-defender` for disabling Windows Defender via Group policies
