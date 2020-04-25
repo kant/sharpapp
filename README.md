@@ -38,7 +38,7 @@ alt="GitHub issues">
 
 ## Features
 
-SharpApp will cover the following areas to prepare you for the "net" after a clean install or major Windows 10 updates
+SharpApp is a free and portable tool building upon a PowerShell engine and community powered script files for disabling telemetry functions in Windows 10, uninstalling preinstalled apps and automating other tasks after a clean Installation of Windows 10 or major updates.
 
 * Windows
 	- Run a basic privacy template and disable the most telemetry functions to improve the "real" Windows experience.
