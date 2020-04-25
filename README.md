@@ -98,7 +98,7 @@ This software uses the following packages:
 
 ## License
 
-Donationware
+Donationware (private and commercial use)
 
 ---
 
