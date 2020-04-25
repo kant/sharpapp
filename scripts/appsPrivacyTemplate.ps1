@@ -53,7 +53,10 @@ Set-Service WMPNetworkSvc -StartupType Disabled
 
 ########## Disable Microsoft Office telemetry (supports Microsoft Office 2013 and 2016) ########## 
 # This will disable Microsoft Office telemetry (supports Microsoft Office)
+Get-ScheduledTask -TaskName "OfficeTelemetryAgentFallBack2016" | Disable-ScheduledTask
+Get-ScheduledTask -TaskName "OfficeTelemetryAgentLogOn2016" | Disable-ScheduledTask
 New-ItemProperty -Path "HKCU:\SOFTWARE\Policies\Microsoft\Office\15.0\osm" -Name Enablelogging -Value 0 -Force
 New-ItemProperty -Path "HKCU:\SOFTWARE\Policies\Microsoft\Office\15.0\osm" -Name EnableUpload -Value 0 -Force
 New-ItemProperty -Path "HKCU:\SOFTWARE\Policies\Microsoft\Office\16.0\osm" -Name Enablelogging -Value 0 -Force
 New-ItemProperty -Path "HKCU:\SOFTWARE\Policies\Microsoft\Office\16.0\osm" -Name EnableUpload -Value 0 -Force
+

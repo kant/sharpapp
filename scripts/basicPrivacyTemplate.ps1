@@ -73,10 +73,8 @@ Get-ScheduledTask -TaskPath "\Microsoft\Windows\Customer Experience Improvement 
 
 ########## Disable Windows Disable Error Reporting ########## 
 # The error reporting feature in Windows is what produces those alerts after certain program or operating system errors, prompting you to send the information about the problem to Microsoft.
-Function DisableErrorReporting {
 New-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows\Windows Error Reporting" -Name Disabled -Value 1 -Force
-Get-ScheduledTask -TaskPath "\Microsoft\Windows\Windows Error Reporting\QueueReporting\" | Disable-ScheduledTask
-}
+Get-ScheduledTask -TaskName "QueueReporting" | Disable-ScheduledTask
 
 ########## Prevent using diagnostic data ########## 
 #Starting with Windows 10 build 15019, a new privacy setting to "let Microsoft provide more tailored experiences with relevant tips and recommendations by using your diagnostic data" has been added.
