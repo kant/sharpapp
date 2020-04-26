@@ -40,7 +40,6 @@ New-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Capabili
 # Windows 10 comes integrated with advertising. Microsoft assigns a unique identificator to track your activity in the Microsoft Store and on UWP apps to target you with relevant ads.
 # If someone is giving you personalized ads, it means they are tracking your data. Turn off the advertising feature from Windows 10 with this script to stay secure.
 New-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\AdvertisingInfo" -Name Enabled -Value 0 -Force
-New-ItemProperty -Path "HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\AdvertisingInfo" -Name Enabled -Value 0 -Force
 
 ########## Turn off help Microsoft improve typing and writing ########## 
 # When the Getting to know you privacy setting is turned on for inking & typing personalization in Windows 10, you can use your typing history and handwriting patterns to create a local user dictionary for you that is used to make better typing suggestions and improve handwriting recognition for each of the languages you use.
@@ -51,6 +50,8 @@ New-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\HandwritingErr
 New-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\TabletPC" -Name PreventHandwritingDataSharing -Value 1 -Force
 
 ########## Do not show feedback notifications ########## 
+# Windows 10 doesn’t just automatically collect information about your computer usage. It does do that, but it may also pop up from time # to time and ask for feedback. 
+# This information is used to improve Windows 10 - in theory. As of Windows 10’s “November Update,” the Windows Feedback application is installed by default on all Windows 10 PCs.
 New-ItemProperty -Path "HKCU:\Software\Microsoft\Siuf\Rules" -Name PeriodInNanoSeconds -Value 0 -Force
 New-ItemProperty -Path "HKCU:\Software\Microsoft\Siuf\Rules" -Name NumberOfSIUFInPeriod -Value 0 -Force
 
@@ -71,7 +72,7 @@ New-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\confi
 ########## Disable Customer Experience Improvement Program ########## 
 Get-ScheduledTask -TaskPath "\Microsoft\Windows\Customer Experience Improvement Program\" | Disable-ScheduledTask
 
-########## Disable Windows Disable Error Reporting ########## 
+########## Disable Windows Error Reporting ########## 
 # The error reporting feature in Windows is what produces those alerts after certain program or operating system errors, prompting you to send the information about the problem to Microsoft.
 New-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows\Windows Error Reporting" -Name Disabled -Value 1 -Force
 Get-ScheduledTask -TaskName "QueueReporting" | Disable-ScheduledTask
