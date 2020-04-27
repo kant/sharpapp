@@ -1,5 +1,6 @@
 ﻿########## Enable telemetry in Windows 10 ##########
 New-ItemProperty -Path "HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\DataCollection" -Name AllowTelemetry -Value 3 -Force
+New-ItemProperty -Path "HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\DataCollection" -Name MaxTelemetryAllowed -Value 3 -Force
 # Stop and Enable Diagnostic Tracking Service
 Start-Service -Name DiagTrack
 Set-Service -Name DiagTrack -StartupType Auto
