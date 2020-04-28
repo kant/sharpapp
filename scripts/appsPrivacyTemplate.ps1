@@ -21,15 +21,15 @@ New-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Mozilla\Firefox" -Name DisableDe
 # If you're highly dependent on CCleaner you can disable with this script the CCleaner Active Monitoring ("Active Monitoring" feature has been renamed with v5.46 to "Smart Cleaning"), 
 # automatic Update check and download function, trial offer notifications, the new integrated Software Updater and the privacy option to "Help Improve CCleaner by sending anonymous usage data".
 Stop-Process -name CCleaner*
-New-ItemProperty -Path "HKCU:\Software\Piriform\CCleaner" -Name Monitoring -Value 0 -Force
-New-ItemProperty -Path "HKCU:\Software\Piriform\CCleaner" -Name HelpImproveCCleaner -Value 0 -Force
-New-ItemProperty -Path "HKCU:\Software\Piriform\CCleaner" -Name SystemMonitoring -Value 0 -Force
-New-ItemProperty -Path "HKCU:\Software\Piriform\CCleaner" -Name UpdateAuto -Value 0 -Force
-New-ItemProperty -Path "HKCU:\Software\Piriform\CCleaner" -Name UpdateCheck -Value 0 -Force
-New-ItemProperty -Path "HKCU:\Software\Piriform\CCleaner" -Name CheckTrialOffer -Value 0 -Force
-New-ItemProperty -Path "HKLM:\Software\Piriform\CCleaner" -Name (Cfg)GetIpmForTrial -Value 0 -Force
-New-ItemProperty -Path "HKLM:\Software\Piriform\CCleaner" -Name (Cfg)SoftwareUpdater -Value 0 -Force
-New-ItemProperty -Path "HKLM:\Software\Piriform\CCleaner" -Name (Cfg)SoftwareUpdaterIpm -Value 0 -Force
+New-ItemProperty -Type String -Path "HKCU:\Software\Piriform\CCleaner" -Name Monitoring -Value 0 -Force
+New-ItemProperty -Type String -Path "HKCU:\Software\Piriform\CCleaner" -Name HelpImproveCCleaner -Value 0 -Force
+New-ItemProperty -Type String -Path "HKCU:\Software\Piriform\CCleaner" -Name SystemMonitoring -Value 0 -Force
+New-ItemProperty -Type String -Path "HKCU:\Software\Piriform\CCleaner" -Name UpdateAuto -Value 0 -Force
+New-ItemProperty -Type String -Path "HKCU:\Software\Piriform\CCleaner" -Name UpdateCheck -Value 0 -Force
+New-ItemProperty -Type String -Path "HKCU:\Software\Piriform\CCleaner" -Name CheckTrialOffer -Value 0 -Force
+New-ItemProperty -Type String -Path "HKLM:\Software\Piriform\CCleaner" -Name (Cfg)GetIpmForTrial -Value 0 -Force
+New-ItemProperty -Type String -Path "HKLM:\Software\Piriform\CCleaner" -Name (Cfg)SoftwareUpdater -Value 0 -Force
+New-ItemProperty -Type String -Path "HKLM:\Software\Piriform\CCleaner" -Name (Cfg)SoftwareUpdaterIpm -Value 0 -Force
 Get-ScheduledTask -TaskName "CCleaner Update" | Disable-ScheduledTask
 
 ########## Disable Dropbox Update service ########## 
