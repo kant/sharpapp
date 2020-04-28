@@ -4,9 +4,11 @@
 New-ItemProperty -Path "HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\DataCollection" -Name AllowTelemetry -Value 0 -Force
 New-ItemProperty -Path "HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\DataCollection" -Name MaxTelemetryAllowed -Value 1 -Force
 # Stop and Disable Diagnostic Tracking Service
+New-ItemProperty -Path "HKLM:\SYSTEM\ControlSet001\Services\DiagTrack" -Name Start -Value 4 -Force
 Stop-Service -Name DiagTrack
 Set-Service -Name DiagTrack -StartupType Disabled
 # Stop and Disable dmwappushservice Service
+New-ItemProperty -Path "HKLM:\SYSTEM\ControlSet001\Services\dmwappushsvc" -Name Start -Value 4 -Force
 Stop-Service -Name dmwappushservice
 Set-Service -Name dmwappushservice -StartupType Disabled
 
