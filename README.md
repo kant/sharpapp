@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">💩⭐️🚀A #app with cutting edge technology to minimize windows-10 telemetry and maximize privacy</h4>
+<h4 align="center">💩⭐️🚀A #app with cutting edge technology to minimize windows-10 telemetry and maximize privacy plus many more</h4>
 
 <p align="center">
 <a href="https://github.com/mirinsoft/sharpapp/releases/latest" target="_blank">
@@ -38,7 +38,7 @@ alt="GitHub issues">
 
 ## Features
 
-SharpApp is a free and portable tool building upon a PowerShell engine and community powered script files for disabling telemetry functions in Windows 10, uninstalling preinstalled apps and automating other tasks after a clean Installation of Windows 10 or major updates.
+SharpApp is a free and portable tool building upon a PowerShell engine and community powered script files for disabling telemetry functions in Windows 10, uninstalling preinstalled apps, installing software packages and automating Windows tasks with integrated PowerShell scripting.
 
 * Windows
 	- Run a basic privacy template and disable the most telemetry functions to improve the "real" Windows experience.
