@@ -1,6 +1,7 @@
 ﻿########## Disable telemetry in Windows 10 ##########
 # As you use Windows 10, Microsoft will collect usage information. All its options are available in Settings -> Privacy - Feedback and Diagnostics. There you can set the options "Diagnostic and usage data" to Basic, Enhanced and Full.
 # This will set diagnostic data to Basic, which is the lowest level available for all consumer versions of Windows 10
+# PLEASE NOTE that Diagnostic Data must be set to Full to get preview builds from Windows-Insider-Program! Just remove the first key or undo all changes with SharpApp's "_undobasicPrivacyTemplate" to get preview builds again.
 New-ItemProperty -Path "HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\DataCollection" -Name AllowTelemetry -Value 0 -Force
 New-ItemProperty -Path "HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\DataCollection" -Name MaxTelemetryAllowed -Value 1 -Force
 # Stop and Disable Diagnostic Tracking Service
