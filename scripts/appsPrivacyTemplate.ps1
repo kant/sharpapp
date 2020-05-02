@@ -51,8 +51,8 @@ New-ItemProperty -Path "HKCU:\Software\Policies\Microsoft\WindowsMediaPlayer" -N
 New-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\WMDRM" -Name DisableOnline -Type String -Value 1 -Force
 Set-Service WMPNetworkSvc -StartupType Disabled
 
-########## Disable Microsoft Office telemetry (supports Microsoft Office 2013 and 2016) ########## 
-# This will disable Microsoft Office telemetry (supports Microsoft Office)
+########## Disable Microsoft Office telemetry ########## 
+# This will disable Microsoft Office telemetry (supports Microsoft Office 2013 and 2016)
 Get-ScheduledTask -TaskName "OfficeTelemetryAgentFallBack2016" | Disable-ScheduledTask
 Get-ScheduledTask -TaskName "OfficeTelemetryAgentLogOn2016" | Disable-ScheduledTask
 New-ItemProperty -Path "HKCU:\SOFTWARE\Policies\Microsoft\Office\15.0\osm" -Name Enablelogging -Type String -Value 0 -Force
