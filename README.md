@@ -67,7 +67,7 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
 * **Goto Navigation > windows > Choose Privacy template** and download: `Basic template (for Beginners)`
   * Goto Navigation > scripting > Select `basicPrivacyTemplate` from dropdown menu > **Run script**.
 * **Goto Navigation > apps > Remove preinstalled apps manually**
-  * or **download the Advanced Privacy template** (named `Windows10Debloater`) which will guide you with interactive prompts through the     removal of bloatware and locking down other parts of Windows 10.
+  * or **download the Interactive  and-all-in-one (Advanced) Privacy template** (named `Windows10Debloater`) which will guide you with interactive prompts through the removal of bloatware and locking down other parts of Windows 10.
  * **Goto Navigation > telemetry > Block IP adresses of telemetry**
    * You can add here optional community rules provided by [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
  * **Goto Navigation > packages > Install software packages**
