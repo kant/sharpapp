@@ -91,9 +91,9 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
 
 This software uses the following packages:
 
+- [Icon by shaunkleyn](http://www.iconarchive.com/show/phlat-blue-folders-icons-by-shaunkleyn/Utilities-Alt-icon.html)
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10/)
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
-- [MinersWin / Ninite](https://github.com/MinersWin/Ninite)
 
 ## License
 
