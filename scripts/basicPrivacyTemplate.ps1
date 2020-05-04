@@ -35,6 +35,12 @@ New-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\CloudContent" 
 # Since most web results are generic search suggestions, it is just a faster way of running searches instead of getting results directly displayed in the interface.
 New-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Windows Search" -Name ConnectedSearchUseWeb -Type DWord -Value 0 -Force
 
+########## Disable Bing in Windows Search ########## 
+# Like Google, Bing is a search engine that needs your data to improve its search results. Windows 10, by default, sends everything you search for in the Start Menu to their servers to give you results from Bing search.
+#These searches are then uploaded to Microsoft's Privacy Dashboard.
+New-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Search" -Name CortanaConsent -Type DWord -Value 0 -Force
+New-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Search" -Name BingSearchEnabled -Type DWord -Value 0 -Force
+
 ########## Disable Location tracking ##########
 # When Location Tracking is turned on, Windows and its apps are allowed to detect the current location of your computer or device. 
 # This can be used to pinpoint your exact location, e.g. Map traces the location of PC and helps you in exploring nearby restaurants.
