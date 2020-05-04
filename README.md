@@ -57,7 +57,7 @@ SharpApp is a free and portable tool building upon a PowerShell engine and commu
 	- integrated Powershell scripting engine
 	- simple to use
 	- portable
-	- leightweight and fast
+	- lightweight and fast
 
 More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp) 
 
