@@ -41,7 +41,7 @@ alt="GitHub issues">
 SharpApp is a free and portable tool building upon a PowerShell engine and community powered script files for disabling telemetry functions in Windows 10, uninstalling preinstalled apps, installing software packages and automating Windows tasks with integrated PowerShell scripting.
 
 * Windows
-	- Run a basic privacy template and disable the most telemetry functions to improve the "real" Windows experience.
+	- Install a privacy template and disable basic and advanced telemetry functions to improve the "real" Windows experience
 * Apps 
 	- Remove preinstalled, bloatware and sponsored apps
 * Telemetry
@@ -49,7 +49,7 @@ SharpApp is a free and portable tool building upon a PowerShell engine and commu
 * Install 
 	- Install basic software with integrated Ninite service, Ninite PowerShell GUI or just download Windows 10 ISO files
 * Scripting
-	- Lock down Windows 10, block telemetry and automate with PowerShell in a #App GUI
+	- Lock down Windows 10, block telemetry and automate with PowerShell in a #App GUI.
 * More
 	- 100% free (please [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donate@mirinsoft.com&lc=US&item_name=%20Mirinsoft&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted) and support me if you like it)
 	- features community powered and trending script files for your privacy, windows and apps
