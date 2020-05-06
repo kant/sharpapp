@@ -1,8 +1,12 @@
-### Rules are provided by crazy-max/WindowsSpyBlocker
-### https://github.com/crazy-max/WindowsSpyBlocker
-### Last updated on 23 Jan, 2020
-### Template was adapted for SharpApp https://github.com/mirinsoft/sharpapp
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Rules are provided by crazy-max/WindowsSpyBlocker
+# https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/firewall/spy.txt
+# Last updated on 23 Jan, 2020
+# Template was adapted for SharpApp https://github.com/mirinsoft/sharpapp
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ########## Block Microsoft Telemetry IPs via Windows Firewall ########## 
+# This script will not block Windows updates and third party applications from Microsoft like OneDrive, Skype, Live etc.
+# To do so, you can get the "hardcoreFirewallTemplate" from SharpApp's scripts repository
 Write-Output "Adding telemetry IPs to firewall"
 $ips = @(
     "13.68.31.193"
