@@ -48,7 +48,7 @@ Remove-ItemProperty -Path "HKCU:\Software\Microsoft\Siuf\Rules" -Name "PeriodInN
 Remove-ItemProperty -Path "HKCU:\Software\Microsoft\Siuf\Rules" -Name "NumberOfSIUFInPeriod"
 
 ########## Enable Clipboard history  ########## 
-New-ItemProperty -Path "HKCU:\Software\Microsoft\Clipboards" -Name "EnableClipboardHistory" -Type DWord -Value 1 -Force
+New-ItemProperty -Path "HKCU:\Software\Microsoft\Clipboard" -Name "EnableClipboardHistory" -Type DWord -Value 1 -Force
 
 ########## Enable Timeline history  ########## 
 New-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\System" -Name "EnableActivityFeed" -Type DWord -Value 1 -Force
