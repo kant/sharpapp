@@ -3,7 +3,7 @@
 # Compatibility: Tested on Windows 10, version 1903, 1909
 # Script was adapted for SharpApp https://github.com/mirinsoft/sharpapp
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-##########  Unpin all Live tiles from Windows 10 Start menu ########## 
+### Unpin all Live tiles from Windows 10 Start menu ###
 # This will clean Windows 10s start menu from all the default pinned apps that you are using.
 # It will remove all titles for the current logged user, plus it will optionally do the same for all new users accounts created on the computer.
 
