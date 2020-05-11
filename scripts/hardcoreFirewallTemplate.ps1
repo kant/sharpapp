@@ -4,8 +4,8 @@
 # Last updated on 4 Apr, 2020
 # Template was adapted for SharpApp https://github.com/mirinsoft/sharpapp
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-########## Block Microsoft Telemetry IPs via Windows Firewall (Hardcore) ########## 
-# This script will block third party applications from Microsoft like OneDrive, Skype, Live etc. and Windows Updates including Microsoft Store
+### Block Microsoft Telemetry IPs via Windows Firewall (Hardcore) ###
+### This script will block third party applications from Microsoft like OneDrive, Skype, Live etc. and Windows Updates including Microsoft Store ###
 Write-Output "Adding third party IPs to firewall"
 Write-Output "Adding Windows update IPs to firewall"
 $ips = @(
