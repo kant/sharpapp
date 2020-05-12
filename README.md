@@ -30,6 +30,7 @@ alt="GitHub issues">
   <a href="#Features">Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
+  <a href="#marketplace">Marketplace</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
@@ -83,8 +84,8 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
   * `remove-default-apps` for removing bloatware shipped with Windows
   * `remove-onedrive` for removing OneDrive Integration
   
-### **THIRD-PARTY SCRIPTS/TEMPLATES** 
-Don't forget to check [SharpApp's Marketplace for more](http://www.mirinsoft.com/sharpapp-marketplace)
+## Marketplace
+Don't forget to check [SharpApp's Marketplace for more scripts files and templates](http://www.mirinsoft.com/sharpapp-marketplace)
 
 ## Download
 
