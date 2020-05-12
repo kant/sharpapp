@@ -64,7 +64,7 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
 ## How To Use
 
 * **[Download](https://github.com/mirinsoft/sharpapp/releases)** the latest version of SharpApp.
-* **Goto Navigation > windows > Choose Privacy template** and install: `Basic template (for Beginners)`
+* **Goto Navigation > windows > Choose Privacy template** and install: `Basic template (for Beginners)` (RECOMMENDED)
   * Goto Navigation > scripting > Select `basicPrivacyTemplate` from dropdown menu > **Run script**.
 * **Goto Navigation > apps > Remove preinstalled apps manually**
   * or **download the Interactive  and-all-in-one (Advanced) Privacy template** (named `Windows10Debloater`) which will guide you with interactive prompts through the removal of bloatware and locking down other parts of Windows 10.
@@ -82,6 +82,8 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
   * `install-basic-software` for installing software packages with chocolatey package manager
   * `remove-default-apps` for removing bloatware shipped with Windows
   * `remove-onedrive` for removing OneDrive Integration
+  
+* **[THIRD-PARTY SCRIPTS/TEMPLATES]** Don't forget to check [SharpApp's Marketplace for more](http://www.mirinsoft.com/sharpapp-marketplace)
 
 ## Download
 
