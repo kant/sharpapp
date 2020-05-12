@@ -83,7 +83,7 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
   * `remove-default-apps` for removing bloatware shipped with Windows
   * `remove-onedrive` for removing OneDrive Integration
   
-* **[THIRD-PARTY SCRIPTS/TEMPLATES]** Don't forget to check [SharpApp's Marketplace for more](http://www.mirinsoft.com/sharpapp-marketplace)
+### **THIRD-PARTY SCRIPTS/TEMPLATES** Don't forget to check [SharpApp's Marketplace for more](http://www.mirinsoft.com/sharpapp-marketplace)
 
 ## Download
 
