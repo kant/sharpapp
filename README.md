@@ -66,7 +66,7 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
 
 * **[Download](https://github.com/mirinsoft/sharpapp/releases)** the latest version of SharpApp.
 * **Goto Navigation > windows > Choose Privacy template** and install: `Basic template (for Beginners)`
-  * Goto Navigation > policies > Select `basicPrivacyTemplate` from list > **Apply** or run individual changes of your choice
+  * Goto Navigation > policies > Select `basicPrivacyTemplate` from list > **Apply** or select your individual policies.
 * **Goto Navigation > apps > Remove preinstalled apps manually**
   * or **download the Interactive  and-all-in-one (Advanced) Privacy template** (named `Windows10Debloater`) which will guide you with interactive prompts through the removal of bloatware and locking down other parts of Windows 10.
  * **Goto Navigation > telemetry > Block IP adresses of telemetry**
