@@ -49,8 +49,8 @@ SharpApp is a free and portable tool building upon a PowerShell engine and commu
 	- Block IP adresses of telemetry
 * Install 
 	- Install basic software with integrated Ninite service, Ninite PowerShell GUI or just download Windows 10 ISO files
-* Scripting
-	- Lock down Windows 10, block telemetry and automate with PowerShell in a #App GUI.
+* Policies
+	- Integrated "Modern Policy Editor" (equivalent to Local Group Policy Editor) based upon Powershell objects for applying changes in Registry and System
 * More
 	- 100% free (please [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donate@mirinsoft.com&lc=US&item_name=%20Mirinsoft&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted) and support me if you like it)
 	- features community powered and trending script files for your privacy, windows and apps
@@ -65,8 +65,8 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
 ## How To Use
 
 * **[Download](https://github.com/mirinsoft/sharpapp/releases)** the latest version of SharpApp.
-* **Goto Navigation > windows > Choose Privacy template** and install: `Basic template (for Beginners)` (RECOMMENDED)
-  * Goto Navigation > scripting > Select `basicPrivacyTemplate` from dropdown menu > **Run script**.
+* **Goto Navigation > windows > Choose Privacy template** and install: `Basic template (for Beginners)`
+  * Goto Navigation > policies > Select `basicPrivacyTemplate` from list > **Apply** or run individual changes of your choice
 * **Goto Navigation > apps > Remove preinstalled apps manually**
   * or **download the Interactive  and-all-in-one (Advanced) Privacy template** (named `Windows10Debloater`) which will guide you with interactive prompts through the removal of bloatware and locking down other parts of Windows 10.
  * **Goto Navigation > telemetry > Block IP adresses of telemetry**
