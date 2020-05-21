@@ -96,8 +96,6 @@ Don't forget to check [SharpApp's Marketplace for more scripts files and templat
 This software uses the following packages:
 
 - [Icon by shaunkleyn](http://www.iconarchive.com/show/phlat-blue-folders-icons-by-shaunkleyn/Utilities-Alt-icon.html)
-- [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10/)
-- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
 
 ## License
 
