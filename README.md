@@ -48,7 +48,7 @@ SharpApp is a free and portable tool building upon a PowerShell engine and commu
 * Telemetry
 	- Block IP adresses of telemetry
 * Install 
-	- Install basic software with integrated Ninite service, Ninite PowerShell GUI or just download Windows 10 ISO files
+	- Install basic software with integrated Ninite service
 * Policies
 	- Integrated "Modern Policy Editor" (equivalent to Local Group Policy Editor) based upon Powershell objects for applying changes in Registry and System
 * More
