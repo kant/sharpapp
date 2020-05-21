@@ -71,7 +71,7 @@ New-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Backgrou
 ###- Disable tracking of app starts
 # Windows can personalize your Start menu based on the apps that you launch. 
 # This allows you to quickly have access to your list of Most used apps both in the Start menu and when you search your device.
-New-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Name Start_TrackProgs -Type DWord -Value 1 -Force
+New-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Name Start_TrackProgs -Type DWord -Value 0 -Force
 
 ###- Open privacy settings
 $Result = [System.Windows.Forms.MessageBox]::Show("Script has been successfully executed.`r`n`r`nWould you like to open the Settings > Privcay page to check the results?","SharpApp",4)
