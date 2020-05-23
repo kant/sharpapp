@@ -71,6 +71,7 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
   * or **download the Interactive  and-all-in-one (Advanced) Privacy template** (named `Windows10Debloater`) which will guide you with interactive prompts through the removal of bloatware and locking down other parts of Windows 10.
  * **Goto telemetry > Block IP adresses of telemetry**
    * You can add here optional community rules provided by [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
+     Therefore you need to install the template `block telemetry via Hosts file` from dashboard
  * **Goto packages > Install software packages**
    * This should be self explanatory! SharpApp uses the [Windows Package Manager](https://github.com/microsoft/winget-cli)
    
