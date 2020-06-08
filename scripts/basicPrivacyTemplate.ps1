@@ -1,4 +1,4 @@
-﻿### Info: Run this template to apply the following policies at once. You can run each policy also individually by selecting it from the list below. ###
+﻿### Info: Run this template to apply the following policies at once. You can run each policy also individually in the Policies tab of Spydish. ###
 ###- Disable telemetry in Windows 10
 # As you use Windows 10, Microsoft will collect usage information. All its options are available in Settings -> Privacy - Feedback and Diagnostics. There you can set the options "Diagnostic and usage data" to Basic, Enhanced and Full.
 # This will set diagnostic data to Basic, which is the lowest level available for all consumer versions of Windows 10
